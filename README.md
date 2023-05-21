@@ -1,4 +1,4 @@
-# Optimization Measles vaccine supply chain in Pakistan
+# Optimization of Measles vaccine supply chain in Pakistan
 Repository containing the project of Sustainable Logistics class of String 2023 at HEC Lausanne
 
 ## Scope of the project
